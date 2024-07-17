@@ -1,3 +1,9 @@
+"""
+Zip files from last commit
+
+when the file is a .java source, zip .class instead.
+"""
+
 import os
 import subprocess
 import zipfile
